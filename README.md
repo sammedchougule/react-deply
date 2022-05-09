@@ -1,4 +1,4 @@
-This repositoru is about ReactHooks..
+This repository is about ReactHooks..
 1) useState
 2) useEffect
 3) useMemo
